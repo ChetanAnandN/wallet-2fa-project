@@ -56,6 +56,6 @@ Enter the demo credentials:
 
 Username: admin
 
-Password: password123
+Password: passwor*123
 
 Click Login, then verify using MetaMask.
